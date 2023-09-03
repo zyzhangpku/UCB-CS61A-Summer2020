@@ -9,7 +9,7 @@
 
 ## 已完成
   
-  lab00, lab01, lab02, lab03, lab04,
+  lab00, lab01, lab02, lab03, lab04, lab05, lab06
   
   hw01, hw02, hw03, hw04
   
